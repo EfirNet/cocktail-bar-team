@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/AnnaTsepilova/goit-js-cocktail-bar-site",
+  "homepage": "https://efirnet.github.io/cocktail-bar-team",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-cocktail-bar-site/"
+    "build": "parcel build src/*.html --public-url /"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/EfirNet/cocktail-bar-team.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
